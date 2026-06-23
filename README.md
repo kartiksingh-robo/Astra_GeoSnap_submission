@@ -54,6 +54,4 @@ src/
 
 ## Author
 
-Kartik Singh
-IIT Dharwad
-Mechanical Engineering
+Kartik
